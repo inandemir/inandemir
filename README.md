@@ -24,9 +24,9 @@
 
 </div>
 
-<!-- Mr. Robot GIF -->
+<!-- Elliot Hacking GIF -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/mr-robot.gif" width="480" alt="Mr. Robot - Elliot Alderson"/>
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/elliot-hacking.gif" width="480" alt="Elliot Alderson Hacking"/>
 </div>
 
 ---
@@ -175,6 +175,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
+
+<!-- Fsociety Mask GIF -->
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/fsociety-mask.gif" width="420" alt="Fsociety Mask - Mr. Robot"/>
+
+<br/><br/>
 
 ```
 ███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
