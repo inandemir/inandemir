@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Animasyonlu Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=İnan%20Demir&fontSize=65&fontColor=00ffcc&animation=twinkling&fontAlignY=38&desc=🔐%20Siber%20Güvenlik%20Öğrencisi%20|%20Python%20Developer&descAlignY=60&descColor=a0f0d0&stroke=00ffcc&strokeWidth=2" width="100%"/>
+<!-- Mr. Robot açılış -->
+> *"Merhaba, arkadaş.*
+> *Belki sana bir isim vermeliyim.*
+> *Ama bu kaygan bir zemin —*
+> *bir kez seninle konuşmaya başlarsam, duramam artık."*
+>
+> **— Elliot Alderson, Mr. Robot 🤖**
 
 </div>
 
@@ -9,32 +14,41 @@
 
 <div align="center">
 
-<!-- Animasyonlu Yazı -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=650&lines=Merhaba%2C+Ben+%C4%B0nan+Demir+%F0%9F%91%8B;🔐+Siber+Güvenlik+Meraklısı;🐍+Python+%26+Otomasyon+Geliştirici;🛡️+SOC+Analisti+%26+Forensics+Aracı;🤖+AI+%2B+Güvenlik+Entegrasyonları;🚀+Daima+Öğrenmeye+Devam!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=inan%20demir&fontSize=65&fontColor=00ffcc&animation=twinkling&fontAlignY=38&desc=🔐%20Siber%20Güvenlik%20Öğrencisi%20|%20Python%20Developer&descAlignY=60&descColor=a0f0d0&stroke=00ffcc&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=700&lines=Merhaba%2C+arkadas+%F0%9F%91%8B;Siber+Guvenlik+Meraklisi+%F0%9F%94%90;Python+%26+Otomasyon+Gelistirici+%F0%9F%90%8D;SOC+Analisti+%26+Forensics+Araci+%F0%9F%9B%A1%EF%B8%8F;AI+%2B+Guvenlik+Entegrasyonlari+%F0%9F%A4%96;Sistemi+degistirmeye+geldim...+%F0%9F%92%A5)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="hacker coding"/>
 </div>
 
 ---
 
-## 🕵️ Hakkımda
+## 💻 Terminal
 
-```python
-class InanDemir:
-    def __init__(self):
-        self.isim          = "İnan Demir"
-        self.rol           = "🔐 Siber Güvenlik Öğrencisi & Python Geliştirici"
-        self.konum         = "📍 İstanbul, Türkiye"
-        self.odak          = ["SOC Analizi", "Penetrasyon Testi", "OSINT", "Adli Bilişim"]
-        self.diller        = ["Python 🐍", "C# ⚡", "Batch Script 🪟", "Bash 🐧"]
-        self.guncel_proje  = "🛡️ Nexus SuperApp — SOC & Forensics Merkezi"
-        self.ogreniyorum   = ["Ethical Hacking", "Network Security", "AI + Security"]
+```bash
+┌──(inandemir㉿kali)-[~]
+└─$ whoami
 
-    def mesaj(self):
-        return "💬 'Güvenlik bir ürün değil, bir süreçtir.' — Bruce Schneier"
+  İsim     : İnan Demir
+  Rol      : 🔐 Siber Güvenlik Öğrencisi & Python Geliştirici
+  Konum    : 📍 İstanbul, Türkiye
+  Odak     : SOC Analizi | Penetrasyon Testi | OSINT | Adli Bilişim
+  Diller   : Python 🐍 | C# ⚡ | Batch 🪟 | Bash 🐧
+  Hedef    : Sistemi anlamak, güvenli kılmak ve iyileştirmek.
+
+┌──(inandemir㉿kali)-[~]
+└─$ cat motivation.txt
+
+  "Onlar büyük şirket sahibi olmak istiyor.
+   Ben sistemi değiştirmek istiyorum."
+                          — Elliot Alderson
 ```
 
 ---
@@ -75,13 +89,32 @@ class InanDemir:
 
 <div align="center">
 
-| 🔥 Proje | 📝 Açıklama | 🛠️ Teknoloji | ⭐ |
+| 🔥 Proje | 📝 Açıklama | 🛠️ | ⭐ |
 |:---:|:---|:---:|:---:|
 | [🔍 PhishCheck](https://github.com/inandemir/phishcheck) | Web sitesi güvenlik analiz scripti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐ |
 | [🛡️ Nexus System Suite](https://github.com/inandemir/Nexus-System-Suite) | Windows Güvenlik & Ağ Analiz Süiti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐ |
 | [🕵️ Nexus SuperApp](https://github.com/inandemir/Nexus-SuperApp) | SOC Command Center & Forensics Tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ |
-| [🪟 Windows IT Toolkit](https://github.com/inandemir/Windows_IT_Toolkit.bat) | 25+ Windows yönetim komutu | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | - |
+| [🪟 Windows IT Toolkit](https://github.com/inandemir/Windows_IT_Toolkit.bat) | 25+ Windows yönetim komutu tek BAT'ta | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | - |
 | [🤖 FinAgent LocalRAG](https://github.com/inandemir/FinAgent-LocalRAG) | Yerel RAG tabanlı finansal AI asistan | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | - |
+
+</div>
+
+---
+
+## 🎯 Şu An Nelerle İlgileniyorum?
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🔐  Penetrasyon Testi & Ethical Hacking             ║
+║  🤖  Yapay Zeka + Güvenlik entegrasyonları           ║
+║  📚  CEH / CompTIA Security+ Sertifika Hazırlığı     ║
+║  🛡️  Açık kaynak SOC & SIEM araçları geliştirme     ║
+║  🌐  OSINT & Tehdit İstihbaratı                      ║
+║  🐍  Python ile güvenlik otomasyon araçları          ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -94,53 +127,31 @@ class InanDemir:
 <img src="https://github-readme-stats.vercel.app/api?username=inandemir&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true&border_radius=10" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inandemir&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_radius=10" height="170"/>
 
-</div>
+<br/>
 
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inandemir&theme=radical&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=a0f0d0" width="60%"/>
-</div>
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Trophies -->
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=inandemir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
 </div>
 
-<br/>
-
-<!-- Aktivite Grafiği -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=inandemir&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc&hide_border=true&radius=8" width="100%"/>
 </div>
 
 ---
 
-## 🎯 Şu An Nelerle İlgileniyorum?
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║  🔐  Penetrasyon Testi & Ethical Hacking         ║
-║  🤖  AI + Güvenlik entegrasyonları               ║
-║  📚  CEH / CompTIA Security+ Hazırlığı           ║
-║  🛡️  Açık kaynak SOC araçları geliştirme         ║
-║  🌐  OSINT & Tehdit İstihbaratı                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <!-- Snake Animasyonu -->
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inandemir/inandemir/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inandemir/inandemir/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inandemir/inandemir/output/github-contribution-grid-snake.svg"/>
 </picture>
+
 </div>
 
 ---
@@ -153,20 +164,27 @@ class InanDemir:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@inandemir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inandemir)
 
-
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
 
-> *"Hello, friend. Hello, friend? That's lame.*
-> *Maybe I should give you a name.*
-> *But that's a slippery slope — once I start talking to you, I won't be able to stop."*
->
-> **— Elliot Alderson, Mr. Robot**
+```
+███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+█████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝
+██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝
+██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║
+╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝
+```
+
+*"Onlar para istiyor, güç istiyor, korku yaratmak istiyor.*
+*Ben sadece gerçeği görmek istiyorum."*
+
+**— Elliot Alderson, Mr. Robot 🤖**
 
 </div>
