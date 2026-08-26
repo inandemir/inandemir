@@ -24,9 +24,9 @@
 
 </div>
 
-<!-- Elliot Hacking GIF -->
+<!-- Mr. Robot 100 GIF -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/elliot-hacking.gif" width="480" alt="Elliot Alderson Hacking"/>
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/mr-robot-100.gif" width="500" alt="Mr. Robot"/>
 </div>
 
 ---
@@ -177,7 +177,12 @@
 <br/>
 
 <!-- Fsociety Mask GIF -->
-<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/fsociety-mask.gif" width="420" alt="Fsociety Mask - Mr. Robot"/>
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/fsociety.gif" width="420" alt="Fsociety - Mr. Robot"/>
+
+<br/>
+
+<!-- Elliot Hacking GIF -->
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/elliot-hacking.gif" width="420" alt="Elliot Alderson Hacking"/>
 
 <br/><br/>
 
