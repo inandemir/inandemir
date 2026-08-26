@@ -172,14 +172,6 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
-
-<br/>
-
-<!-- Fsociety Mask GIF -->
-<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/fsociety.gif" width="420" alt="Fsociety - Mr. Robot"/>
-
-<br/>
 
 <!-- Elliot Hacking GIF -->
 <img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/elliot-hacking.gif" width="420" alt="Elliot Alderson Hacking"/>
@@ -201,3 +193,4 @@
 **— Elliot Alderson, Mr. Robot 🤖**
 
 </div>
+
