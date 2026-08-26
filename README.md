@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Mr. Robot açılış -->
+<!-- Mr. Robot açılış alıntısı -->
 > *"Merhaba, arkadaş.*
 > *Belki sana bir isim vermeliyim.*
 > *Ama bu kaygan bir zemin —*
@@ -24,8 +24,9 @@
 
 </div>
 
+<!-- Mr. Robot GIF -->
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="hacker coding"/>
+<img src="https://media.giphy.com/media/l0HlFMCMDRWMbfZl6/giphy.gif" width="480" alt="Mr. Robot - Elliot Alderson"/>
 </div>
 
 ---
@@ -89,13 +90,13 @@
 
 <div align="center">
 
-| 🔥 Proje | 📝 Açıklama | 🛠️ | ⭐ |
-|:---:|:---|:---:|:---:|
-| [🔍 PhishCheck](https://github.com/inandemir/phishcheck) | Web sitesi güvenlik analiz scripti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐ |
-| [🛡️ Nexus System Suite](https://github.com/inandemir/Nexus-System-Suite) | Windows Güvenlik & Ağ Analiz Süiti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐ |
-| [🕵️ Nexus SuperApp](https://github.com/inandemir/Nexus-SuperApp) | SOC Command Center & Forensics Tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ |
-| [🪟 Windows IT Toolkit](https://github.com/inandemir/Windows_IT_Toolkit.bat) | 25+ Windows yönetim komutu tek BAT'ta | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | - |
-| [🤖 FinAgent LocalRAG](https://github.com/inandemir/FinAgent-LocalRAG) | Yerel RAG tabanlı finansal AI asistan | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | - |
+| 🔥 Proje | 📝 Açıklama | 🛠️ |
+|:---:|:---|:---:|
+| [🔍 PhishCheck](https://github.com/inandemir/phishcheck) | Web sitesi güvenlik analiz scripti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🛡️ Nexus System Suite](https://github.com/inandemir/Nexus-System-Suite) | Windows Güvenlik & Ağ Analiz Süiti | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🕵️ Nexus SuperApp](https://github.com/inandemir/Nexus-SuperApp) | SOC Command Center & Forensics Tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🪟 Windows IT Toolkit](https://github.com/inandemir/Windows_IT_Toolkit.bat) | 25+ Windows yönetim komutu tek BAT'ta | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) |
+| [🤖 FinAgent LocalRAG](https://github.com/inandemir/FinAgent-LocalRAG) | Yerel RAG tabanlı finansal AI asistan | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -124,12 +125,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inandemir&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inandemir&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_radius=10" height="170"/>
+<a href="https://github.com/inandemir">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inandemir&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inandemir&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&cache_seconds=1800&langs_count=6" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inandemir&theme=radical&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=a0f0d0" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=inandemir&theme=radical&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=a0f0d0" width="60%"/>
 
 <br/><br/>
 
