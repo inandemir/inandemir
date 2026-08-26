@@ -26,7 +26,7 @@
 
 <!-- Mr. Robot GIF -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlFMCMDRWMbfZl6/giphy.gif" width="480" alt="Mr. Robot - Elliot Alderson"/>
+<img src="https://raw.githubusercontent.com/inandemir/inandemir/main/assets/mr-robot.gif" width="480" alt="Mr. Robot - Elliot Alderson"/>
 </div>
 
 ---
@@ -125,10 +125,10 @@
 
 <div align="center">
 
-<a href="https://github.com/inandemir">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inandemir&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inandemir&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&cache_seconds=1800&langs_count=6" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inandemir&theme=radical" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inandemir&theme=radical" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inandemir&theme=radical" height="180"/>
 
 <br/>
 
