@@ -153,9 +153,6 @@ class InanDemir:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@inandemir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inandemir)
 
-<br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=inandemir&color=00ffcc&style=for-the-badge&label=Profil+Görüntülenme)
 
 </div>
 
@@ -164,5 +161,12 @@ class InanDemir:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-*"Güvenlik bir ürün değil, bir süreçtir." — Bruce Schneier*
+<br/>
+
+> *"Hello, friend. Hello, friend? That's lame.*
+> *Maybe I should give you a name.*
+> *But that's a slippery slope — once I start talking to you, I won't be able to stop."*
+>
+> **— Elliot Alderson, Mr. Robot**
+
 </div>
